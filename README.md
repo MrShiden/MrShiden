@@ -1,5 +1,4 @@
-# Saludos Bienvenidos a mi repositorio personal. 
-
+# Saludos Bienvenidos a mi repositorio personal.
 ## Un poco sobre mi.
 
 
@@ -14,6 +13,11 @@ Por el momentos mis proyectos principales se encuentran privados ya que estan ap
 
 ## Practicas/proyectos software libre.
 Empezare a subir unas practicas y proyectos demo junto con sus diseños y una explicacion de sus funciones.
+
+## Android Kotlin Cursos
+
+- [Kotlin Basico](https://github.com/MrShiden/Android)
+- [Im-Chan (Compose Desktop Version](https://github.com/MrShiden/Android)
 
 
 
