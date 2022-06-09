@@ -1,4 +1,4 @@
-# Saludos Bienvenidos a mi repositorio personal.    ![gitJonCab](https://user-images.githubusercontent.com/56522484/172919175-c21dd8f9-21da-4de1-9456-98a6dd4e80b9.png)
+# Saludos Bienvenidos a mi repositorio personal. 
 
 ## Un poco sobre mi.
 
