@@ -17,6 +17,10 @@ Empezare a subir unas practicas y proyectos demo junto con sus diseños y una ex
 ## Android Kotlin Cursos
 
 - [Kotlin Basico](https://github.com/MrShiden/Android)
+- [JetTrivia (Compose Retrofit)](https://github.com/MrShiden/JetTrivia-ComposeVer)
+
+## Compose Desktop
+
 - [Im-Chan (Compose Kt Desktop Version)](https://github.com/MrShiden/Im-chan-ComVer)
 
 
