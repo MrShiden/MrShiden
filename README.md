@@ -26,6 +26,7 @@ Empezare a subir unas practicas y proyectos demo junto con sus diseños y una ex
 ## Diseño
 
 - [Figma (My Broker)](https://www.figma.com/proto/5f4ZITJ7QwO00xzOhuB8gx/MyBroker?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2)
+- [Figma (TodoApp)](https://www.figma.com/file/gTDmjTbajErTyyEnzgz6j3/SimToDoDev?node-id=0%3A1)
 
 
 
