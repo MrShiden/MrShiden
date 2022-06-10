@@ -2,7 +2,7 @@
 ## Un poco sobre mi.
 
 
-Mi nombre es Jonathan Cabello Ramírez he cursado la licenciatura en Sistemas computacionales, por lo que tengo conocimiento teórico y practico en lo que respecta a la operación y mantenimiento de sistemas informáticos, también en lenguajes de programación, Bases de datos y manejo de sistemas operativos como Linux y varias de sus distribuciones (Arc, Debian, RPM) 🐧 ❤️.
+Mi nombre es Jonathan he cursado la licenciatura en Sistemas computacionales, por lo que tengo conocimiento teórico y practico en lo que respecta a la operación y mantenimiento de sistemas informáticos, también en lenguajes de programación, Bases de datos y manejo de sistemas operativos como Linux y varias de sus distribuciones (Arc, Debian, RPM) 🐧 ❤️.
 
 
 ## Actualmente
